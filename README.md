@@ -1,2 +1,1 @@
-# hello-world
-hello world repository created 
+changes done to repository readme edits
